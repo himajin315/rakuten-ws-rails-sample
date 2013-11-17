@@ -11,3 +11,10 @@
  *= require_self
  *= require_tree .
  */
+
+.web-font:before {
+  content: "\e034";
+  font-family: 'Glyphicons Halflings';
+  padding: 0 10px 0;
+}
+
