@@ -25,10 +25,10 @@ module RakutenSample
     # config.i18n.load_path += Dir[Rails.root.join('my', 'locales', '*.{rb,yml}').to_s]
     # config.i18n.default_locale = :de
     # Add the fonts path
-#    config.assets.paths << "#{Rails}/vendor/assets/fonts"
+    config.assets.paths << "#{Rails}/vendor/assets/fonts"
 
     # Precompile additional assets
-#    config.assets.precompile += %w( .svg .eot .woff .ttf )
+    config.assets.precompile += %w( .svg .eot .woff .ttf )
 
 #    config.assets.initialize_on_precompile = false
   end
