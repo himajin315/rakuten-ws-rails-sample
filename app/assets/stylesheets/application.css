@@ -11,6 +11,11 @@
  *= require_self
  *= require_tree .
  */
+h1:before {
+  content: "\f105";
+  font-family: 'FontAwesome';
+  padding: 0 10px 0;
+}
 
 .web-font:before {
   content: "\e034";
