@@ -6,6 +6,6 @@
 
 @font-face {
   font-family: 'FontAwesome';
-  src: url('/assets/fonts/fontawesome-webfont-4.0.3.eot');
-  src: url('/assets/fonts/fontawesome-webfont-4.0.3.eot?#iefix') format('embedded-opentype'), url('/assets/fonts/fontawesome-webfont-4.0.3.woff') format('woff'), url('/assets/fonts/fontawesome-webfont-4.0.3.ttf') format('truetype'), url('/assets/fonts/fontawesome-webfont-4.0.3.svg#glyphicons-halflingsregular') format('svg');
+  src: url('/assets/fonts/fontawesome-webfont.eot');
+  src: url('/assets/fonts/fontawesome-webfont.eot?#iefix') format('embedded-opentype'), url('/assets/fonts/fontawesome-webfont.woff') format('woff'), url('/assets/fonts/fontawesome-webfont.ttf') format('truetype'), url('/assets/fonts/fontawesome-webfont.svg#glyphicons-halflingsregular') format('svg');
 }
